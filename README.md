@@ -6,4 +6,4 @@ L’entreprise industrielle BIOCHIMIE produit un nouveau liquide commercialisé 
 
 La variable à expliquer est la demande du détergent BIOBLANC Y, elle est exprimée en unité de 100 000 flacons de 1 litre. La demande de BIOBLANC devra être expliquée par le prix du flacon sur la période de ventes, ainsi que la moyenne des prix sur la période de ventes des produits liquides concurrents et finalement le budget de la publicité pour promouvoir BIOBLANC sur la période de vente.
 
-Pour réaliser ces prévisions, nous nous baserons sur les données concernant les trois variables explicatives de trente périodes passées, où une période représente quatre semaines, ainsi que des variables construites à partir des variables de base capables d’expliquer les ventes de BIOBLANC.
+Pour réaliser ces prévisions, nous nous baserons sur les données concernant les trois variables explicatives de trente périodes passées, où une période représente quatre semaines, ainsi que des variables construites à partir des variables de base capables d’expliquer les ventes de BIOBLANC
