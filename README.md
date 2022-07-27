@@ -1,6 +1,6 @@
 # PLS_Regression
 
-# Description du besion du projet
+## Description du besion du projet
 
 L’entreprise industrielle BIOCHIMIE produit un nouveau liquide commercialisé sous le nom BIOBLANC. Le directeur commercial de la branche détergent souhaite établir des prévisions qui lui permettront de fixer, avec le directeur marketing, le budget à consacrer à la promotion de BIOBLANC pour les périodes avenir de ventes futures.
 
